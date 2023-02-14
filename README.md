@@ -1,6 +1,4 @@
-My first university project in C
+My secomd university project in C
 
-The goal of the project is to create a program that would emulate a simplified
-algorithm for searching for contacts entered using a sequence of digits. 
-The input of the program is a sequence of numbers.
-The output of the program will contain a list of contacts that match the specified numeric filter
+The goal of the project is to create a program that implements simple cluster analysis, single linkage method
+Objects are 2D.
