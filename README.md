@@ -1,4 +1,4 @@
-My first university project on C
+My first university project in C
 
 The goal of the project is to create a program that would emulate a simplified
 algorithm for searching for contacts entered using a sequence of digits. 
